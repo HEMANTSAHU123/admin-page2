@@ -2,7 +2,7 @@
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
 import Signup from './components/signuppage/Signup'
 import Loginpage from './components/signuppage/Loginpage'
-import Forgotpassword from './components/signuppage/forgotpassword'
+import Forgotpassword from './components/signuppage/Forgotpassword'
 import AdminPage from './components/adminpage/AdminPage'
 import ManageListing from './components/adminpage/ManageListing' 
 import BookingHotel from './components/adminpage/BookingHotel'
